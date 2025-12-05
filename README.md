@@ -72,7 +72,7 @@ Pour permettre la communication entre les conteneurs, un réseau Docker peut êt
 ````bash
 docker network create mern-network
 
-### Commande pour lancer l’application
-
+## Commande pour lancer l’application
+```bash
 docker compose up --build
 ````
